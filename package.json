@@ -18,6 +18,9 @@
   },
   "homepage": "https://github.com/jypkr/EmployeeManagementSystem#readme",
   "dependencies": {
+    "console.table": "^0.10.0",
+    "inquirer": "^8.1.5",
+    "mysql2": "^2.3.0",
     "sequelize": "^6.6.5"
   }
 }
